@@ -10,6 +10,23 @@ I'm **Das Gajraj Sharma**, a passionate tech enthusiast and aspiring developer f
 - Open-source contributions
 - Data Science and Machine Learning
 
+## 🌱 Currently Learning
+- Advanced React Native for cross-platform app development
+- Firebase integration for real-time applications
+- Arduino and robotics prototyping
+- Geo-fencing and location-based services
+
+## 🔭 Currently Working On:
+- Advanced React Native for cross-platform app development  
+- Firebase integration for real-time applications  
+- Arduino and robotics prototyping  
+- Geo-fencing and location-based services  
+
+## 💞️ Collaboration Goals
+- Building innovative apps with a focus on user experience
+- Participating in hackathons and open-source projects
+- Working on projects that use technology for social good
+- Exploring futuristic robotics and IoT applications
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasgajraj&label=Profile%20views&color=0e75b6&style=flat" alt="dasgajraj" /> </p>
 
@@ -19,17 +36,7 @@ I'm **Das Gajraj Sharma**, a passionate tech enthusiast and aspiring developer f
   </a> 
 </p>
 
-## 🔭 Currently Working On:
-- Advanced React Native for cross-platform app development  
-- Firebase integration for real-time applications  
-- Arduino and robotics prototyping  
-- Geo-fencing and location-based services  
 
-## 👀 Interests:
-- Full-stack development  
-- Mobile app development (React Native)  
-- Robotics and IoT  
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
