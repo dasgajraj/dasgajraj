@@ -95,7 +95,7 @@ I'm **Das Gajraj Sharma**, a passionate tech enthusiast and aspiring developer f
 
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://ko-fi.com/dasgajraj"> 
+  <a href="upi://pay?pa=dasgajrajg-1@oksbi&pn=DAS%20GAJRAJ%20SHARMA"> 
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dasgajraj" />
   </a>
 </p><br><br>
