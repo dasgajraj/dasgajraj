@@ -28,8 +28,7 @@ I'm **Das Gajraj Sharma**, a passionate tech enthusiast and aspiring developer f
 - Working on projects that use technology for social good
 - Exploring futuristic robotics and IoT applications
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasgajraj&label=Profile%20views&color=0e75b6&style=flat" alt="dasgajraj" /> </p>
-
+[![](https://visitcount.itsvg.in/api?id=Dasgajraj&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dasgajraj" alt="dasgajraj" />
