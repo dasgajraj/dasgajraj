@@ -107,7 +107,5 @@ I'm **Das Gajraj Sharma**, a passionate tech enthusiast and aspiring developer f
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dasgajraj&show_icons=true&locale=en" alt="dasgajraj" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasgajraj&" alt="dasgajraj" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dasgajraj" alt="GitHub Streak" /></a>
 
